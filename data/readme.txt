@@ -1,1 +1,4 @@
+//these images are from http://marine.acfr.usyd.edu.au/datasets/index.html#TasCPC
+//The data set is comprised of 22 dive missions conducted by AUV Sirius off the South-East coast of Tasmania in October 2008. From the data set containing over 100,000 stereo pairs of images, marine scientists selected every 100th colour image, and used the CPCe software package to label 50 random points on each. Figure 1 shows an example image containing the expert annotations.
 
+A wide range of class labels were used, indicating biological species (including types of sponge, coral, algae and others), abiotic elements (types of sand, gravel, rock, shells etc.), and types of unknown data (ambiguous species, poor image quality, etc.). Precise details of the labelling methodology can be found in [1]. A simplified version of the labeling hierarchy is shown in Figure 2.
